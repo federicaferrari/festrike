@@ -1,0 +1,1 @@
+sudo gatttool -t random -b ED:86:C3:29:8A:05 --char-write-req -a 0x0049 -n 0100 --listen >> por

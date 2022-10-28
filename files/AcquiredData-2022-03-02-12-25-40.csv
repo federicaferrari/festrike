@@ -1,0 +1,2 @@
+
+time,time ns,angle,cadence,pid,corrente effettiva Quad Sx,corrente effettiva Glut Sx,corrente effettiva Hams Sx,corrente effettiva Gastro Sx,corrente effettiva Quad Dx,corrente effettiva Glut Dx,corrente effettiva Hams Dx,corrente effettiva Gastro Dx,power_output_right,power_output_left,tangential_force_right,tangential_force_left,radial_force_right,radial_force_left,heart rate,pedal_cadence_left,pedal_cadence_right,pedal_angle_left,pedal_cadence_right,pedal_time

@@ -1,0 +1,1 @@
+sudo gatttool -t random -b C6:21:8B:A7:24:5F --char-write-req -a 0x0049 -n 0100 --listen >> pol
